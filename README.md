@@ -101,8 +101,8 @@ Query params for `GET /`: `status`, `priority`, `page`, `limit`, `userId` (admin
 | Path | Description |
 |---|---|
 | `GET /health` | Health check |
-| `GET /api-docs` | Swagger UI |
-| `GET /api-redoc` | ReDoc |
+| `GET /docs` | Swagger UI |
+| `GET /redoc` | ReDoc |
 
 ## Token usage
 

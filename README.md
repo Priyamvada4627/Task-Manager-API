@@ -37,7 +37,6 @@ task-manager-api/
 │   ├── schemas/            # Pydantic request/response models
 │   └── main.py             # App factory + middleware setup
 ├── alembic/                # Migrations
-├── seed.py
 ├── requirements.txt
 └── .env.example
 ```

@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+node_modules/
+
+.idea/
+.vscode/
+
+alembic/versions/__pycache__/
+seed.py
